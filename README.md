@@ -10,6 +10,7 @@ To use
 Kill process
 
     pkill mongod
+<<<<<<< HEAD
 
 Web Browser 
 
@@ -19,3 +20,12 @@ Web Browser
 Need to improve 
 
     unfollow
+=======
+    
+Web Browser
+    FireFox is great
+    Chrome cannot upload picture sometimes
+    
+Need to improve
+    unfollow
+>>>>>>> origin/master
