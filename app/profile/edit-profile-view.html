@@ -1,0 +1,16 @@
+<div class="col-sm-8 col-sm-offset-2">
+
+<div class="row">
+	<b><span style="color: #17ace3">Update Photo</span> </b>
+<div></div>
+<button class="button" ngf-select ng-model="file" name="file" ngf-pattern="'image/*'"
+	accept="image/*" >Select</div></button>
+
+<div></div>
+    <b><span style="color: #9518c2">Update Username</span></b>
+    <div class="row"><input class="form-control" ng-model="user.username"
+                            ng-blur="updateUsername()"></div>
+    <b><span style="color: #14d250">Update Bio Information</span></b>
+    <div class="row"><textarea class="form-control" ng-model="user.bio"
+                               ng-blur="updateBio()"></textarea></div>
+</div>
