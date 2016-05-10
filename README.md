@@ -1,5 +1,7 @@
 # MeanStack
-MeanStack
+• Developed a simple Twitter like website using MEAN stack (MongoDB, Express, AngularJS and NodeJS)
+
+• Users can upload their photos and see others tweets
 
 To use
 
